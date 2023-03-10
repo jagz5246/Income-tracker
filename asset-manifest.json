@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/todo-app-CRUD/static/css/main.3151f1a6.css",
-    "main.js": "/todo-app-CRUD/static/js/main.ff8c6c86.js",
-    "index.html": "/todo-app-CRUD/index.html",
-    "main.3151f1a6.css.map": "/todo-app-CRUD/static/css/main.3151f1a6.css.map",
-    "main.ff8c6c86.js.map": "/todo-app-CRUD/static/js/main.ff8c6c86.js.map"
+    "main.css": "/Income-tracker/static/css/main.3151f1a6.css",
+    "main.js": "/Income-tracker/static/js/main.ff8c6c86.js",
+    "index.html": "/Income-tracker/index.html",
+    "main.3151f1a6.css.map": "/Income-tracker/static/css/main.3151f1a6.css.map",
+    "main.ff8c6c86.js.map": "/Income-tracker/static/js/main.ff8c6c86.js.map"
   },
   "entrypoints": [
     "static/css/main.3151f1a6.css",
